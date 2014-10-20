@@ -1,0 +1,11 @@
+title=Mormon Channel Radio
+subtitle=Stream Live Mormon Channel Radio
+screensaver_title=Mormon Channel
+screensaver_private=1
+mm_icon_focus_hd=pkg:/images/music-notes1.png
+mm_icon_side_hd=pkg:/images/music-notes1.png
+mm_icon_focus_sd=pkg:/images/music-notes1.png
+mm_icon_side_sd=pkg:/images/music-notes1.png
+major_version=1
+minor_version=3
+build_version=00000
